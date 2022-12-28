@@ -1,4 +1,4 @@
-# AI presentations
+# 🔥 AI presentations
 AI 관련 논문을 읽거나 프로젝트를 마치고 발표를 위해서 **제가 직접** 만든 피피티입니다.
 
 ## AI-papers
