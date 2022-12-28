@@ -1,6 +1,7 @@
-AI 관련 논문을 읽거나 프로젝트를 마치고 발표를 위해서 제가 직접 만든 피피티입니다.
+# AI presentations
+AI 관련 논문을 읽거나 프로젝트를 마치고 발표를 위해서 **제가 직접** 만든 피피티입니다.
 
-# AI-papers
+## AI-papers
 |순번|별칭|분류|정식 논문 명칭|날짜|비고|
 |-----|-----|-----|-----------|---|---|
 | 01 | transformer | nlp | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) | 2022.07 | SOTA 논문 스터디 |
@@ -8,7 +9,7 @@ AI 관련 논문을 읽거나 프로젝트를 마치고 발표를 위해서 제�
 | 03 | DDPM | cv | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | 2022.11 | boostcamp diffusion study |
 | 04 | ORQA | nlp | [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://arxiv.org/abs/1906.00300) | 2022.12 | boostcamp MRC study |
 
-# AI-projects
+## AI-projects
 |순번|제목|날짜|
 |-----|-----|-----|
 | 01 | DACON 인하 인공지능 챌린지 본선 | 2022.07 |
